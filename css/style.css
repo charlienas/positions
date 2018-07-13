@@ -1,0 +1,38 @@
+#positions {
+    height: 300px;
+    width: 300px;
+    background-color: darkgray;
+    border: 12px solid gray;
+    z-index: 1;
+    position: relative;
+    margin: 20px;
+}
+
+#greylight {
+    left: 50%;
+    background-color: floralwhite;
+    position: absolute;
+    width: 50%;
+    height: 50%;
+}
+
+#orange {
+    top: 50%;
+    background-color: orange;
+    position: absolute;
+    width: 50%;
+    height: 50%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
